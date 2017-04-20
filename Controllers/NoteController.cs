@@ -7,13 +7,10 @@ namespace WebCore.API.Controllers
     public class NoteController : Controller
     {
         private static List<Note> _notes;
-        
         static NoteController()
         {
             _notes = new List<Note>();
         }
-
-
         [HttpGet]
         public IEnumerable<Note> GetAll()
         {
