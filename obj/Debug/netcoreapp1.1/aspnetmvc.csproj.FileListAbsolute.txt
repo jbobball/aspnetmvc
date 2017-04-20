@@ -1,0 +1,10 @@
+c:\_code\aspnetmvc\bin\Debug\netcoreapp1.1\aspnetmvc.db
+c:\_code\aspnetmvc\bin\Debug\netcoreapp1.1\aspnetmvc.deps.json
+c:\_code\aspnetmvc\bin\Debug\netcoreapp1.1\aspnetmvc.runtimeconfig.json
+c:\_code\aspnetmvc\bin\Debug\netcoreapp1.1\aspnetmvc.runtimeconfig.dev.json
+c:\_code\aspnetmvc\bin\Debug\netcoreapp1.1\aspnetmvc.dll
+c:\_code\aspnetmvc\bin\Debug\netcoreapp1.1\aspnetmvc.pdb
+c:\_code\aspnetmvc\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+c:\_code\aspnetmvc\obj\Debug\netcoreapp1.1\aspnetmvc.AssemblyInfo.cs
+c:\_code\aspnetmvc\obj\Debug\netcoreapp1.1\aspnetmvc.dll
+c:\_code\aspnetmvc\obj\Debug\netcoreapp1.1\aspnetmvc.pdb
